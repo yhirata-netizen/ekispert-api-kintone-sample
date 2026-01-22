@@ -2,7 +2,7 @@
     "use strict";
 
     // 駅すぱあとWebサービスのアクセスキー
-    var ekispertAccessKey = 'アクセスキーを指定してください';
+    var ekispertAccessKey = 'uDZd3GV0IR686CrodlTdLYRi2GHDKVuEmvDHRdE8';
 
     // レコード詳細・編集画面の表示時に処理を実行
     kintone.events.on(["app.record.create.show", "app.record.edit.show"], function(event) {
